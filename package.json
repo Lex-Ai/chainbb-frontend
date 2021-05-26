@@ -28,7 +28,7 @@
     "lodash": "^4.17.11",
     "noty": "^3.1.0",
     "prop-types": "15.6.0",
-    "rc-pagination": "^1.8.7",
+    "rc-pagination": "^3.1.6",
     "react": "^16.4.0",
     "react-addons-pure-render-mixin": "^15.4.1",
     "react-dom": "^16.4.2",
