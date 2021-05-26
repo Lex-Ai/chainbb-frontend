@@ -33,7 +33,7 @@
     "react-addons-pure-render-mixin": "^15.4.1",
     "react-dom": "^16.4.2",
     "react-dropzone": "^4.2.12",
-    "react-helmet": "^5.2.0",
+    "react-helmet": "^6.1.0",
     "react-input-range": "^1.1.2",
     "react-redux": "^5.0.3",
     "react-router": "^4.2.0",
