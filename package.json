@@ -32,7 +32,7 @@
     "react": "^16.4.0",
     "react-addons-pure-render-mixin": "^15.4.1",
     "react-dom": "^16.4.2",
-    "react-dropzone": "^4.2.12",
+    "react-dropzone": "^11.3.4",
     "react-helmet": "^5.2.0",
     "react-input-range": "^1.1.2",
     "react-redux": "^5.0.3",
